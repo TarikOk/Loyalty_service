@@ -1,0 +1,6 @@
+Django
+djangorestframework
+Celery
+clickhouse-driver
+psycopg2
+psycopg2-binary
